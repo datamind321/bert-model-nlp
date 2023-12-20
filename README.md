@@ -12,6 +12,7 @@ BERT Archietecture :
 
 2) BERT-Large (Cased / Un-Cased): 24-layer, 1024-hidden-nodes, 16-attention-heads, 340M parameters
 
+![alt text](https://github.com/[datamind321]/[bert-model-nlp]/blob/[asset]/image.jpg?raw=true)
 
 We are implement BERT-Base and implement of that's model.
 
