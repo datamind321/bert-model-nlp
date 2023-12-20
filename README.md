@@ -14,7 +14,7 @@ BERT Archietecture :
 
 ![alt text](https://github.com/[datamind321]/[bert-model-nlp]/asset/0_ViwaI3Vvbnd-CJSQ.webp?raw=true)
 
-train meights link : https://drive.google.com/file/d/1cBhOHWgZDkbP82927HwxmTsek1ZTxhA9/view?usp=drive_link
+Train Weights Link : https://drive.google.com/file/d/1cBhOHWgZDkbP82927HwxmTsek1ZTxhA9/view?usp=drive_link
 
 We are implement BERT-Base and implement of that's model.
 
